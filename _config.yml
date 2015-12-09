@@ -1,7 +1,7 @@
 name: Nick
 favicon: null
-layout_spectrum: 0.52354
-typography_spectrum: 0.5515956515446305
+layout_spectrum: 0.51113
+typography_spectrum: 0.49701
 title: Daily Nick
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#253237'
   brandStrength: 0.0625
   lightness: 0.853069766657427
-  saturation: 0.04053756594657898
-  rhythmicContrast: 0.7940182788297534
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
