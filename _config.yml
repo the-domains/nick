@@ -22,8 +22,8 @@ color:
     - '#447589'
     - '#668c9a'
     - '#3c3a42'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 1
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
