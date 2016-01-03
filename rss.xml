@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Nick]]></title>
-        <description><![CDATA[Nick]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Daily Nick]]></title>
+        <description><![CDATA[Daily Nick]]></description>
+        <link>https://thegrid.ai/nick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 19:53:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 21:17:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7967425-5a8f-4e28-b7b4-272d98a64cf4.jpg">]]></description>
+            <link>https://thegrid.ai/nick/e54c37f2-4643-46e2-8d25-e1d42a8921ac/index.html</link>
+            <guid isPermaLink="false">e54c37f2-4643-46e2-8d25-e1d42a8921ac</guid>
+            <pubDate>Sun, 03 Jan 2016 21:16:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Daily Work]]></title>
-            <description><![CDATA[<article><h1>Daily Work</h1><p>Part of my job is creating digestible and enjoyable content around brands, movies and digital shows. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e79d2d48bfef6bd74c212cda0438e60b742a10b2.jpg"></article>]]></description>
-            <link>undefineddaily-work/index.html</link>
+            <description><![CDATA[<article><h1>Daily Work</h1><p>Part of my job is creating digestible and enjoyable content around brands, movies and digital shows. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ddbbcf05f4aa7c2c9091170a87033e9b5285099.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nick/daily-work/index.html</link>
             <guid isPermaLink="false">a5f330a6-35aa-42e4-98eb-58126d7263a2</guid>
             <pubDate>Wed, 09 Dec 2015 19:53:15 GMT</pubDate>
         </item>
