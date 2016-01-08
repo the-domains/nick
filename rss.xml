@@ -4,8 +4,15 @@
         <description><![CDATA[Daily Nick]]></description>
         <link>https://thegrid.ai/nick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 21:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 00:59:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d324imu86q1bqn.cloudfront.net/uploads/asset/attachment/3301350/ello-optimized-5ead6fa0.jpg">]]></description>
+            <link>https://ello.co/danilo_benatti/post/1MiTFejL8AsiM2yzD4EQnQ</link>
+            <guid isPermaLink="false">51406bb1-47b4-450c-ac58-b93f8ff929d3</guid>
+            <pubDate>Fri, 08 Jan 2016 00:59:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7967425-5a8f-4e28-b7b4-272d98a64cf4.jpg">]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Daily Work]]></title>
-            <description><![CDATA[<article><h1>Daily Work</h1><p>Part of my job is creating digestible and enjoyable content around brands, movies and digital shows. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ddbbcf05f4aa7c2c9091170a87033e9b5285099.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Daily Work</h1><p>Part of my job is creating digestible and enjoyable content around brands, movies and digital shows. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ecccaf16cf356fa79f0435d4ffed10775a35f80.jpg"></article>]]></description>
             <link>https://thegrid.ai/nick/daily-work/index.html</link>
             <guid isPermaLink="false">a5f330a6-35aa-42e4-98eb-58126d7263a2</guid>
             <pubDate>Wed, 09 Dec 2015 19:53:15 GMT</pubDate>
